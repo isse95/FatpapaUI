@@ -1,0 +1,7 @@
+## Interface: 80300
+## Title: Fatpapa UI
+## Author: Fatpala
+## Notes: Small UI tweaks
+## Version: 1
+
+FatpapaUI.lua
